@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Exam Dawn - NEP2020_2024_BSc"
-  text: "An All-in-One Resource Site for NEP2020_2024_BSc Students"
+  name: "Exam Dawn - BSc"
+  text: "An All-in-One Resource Site for BSc Students(2024 batch)"
   actions:
     - theme: brand
       text: Edit Content
@@ -18,9 +18,9 @@ features:
     link: ./2ndsem
 ---
 
-NEP2020_2024_BSc is a 3 years Undergraduate course which teaches the extremely fundamental basics of Computer Science
+BSc is a 3 years Undergraduate course which teaches the fundamental basics of Science with a focus on Computer Science
 
-Ongoing: 2ndsem
+Ongoing: 2nd Semester
 
 ### Content Contributors
 <a href="https://github.com/examdawn/NEP2020_2024_BSc/graphs/contributors">
